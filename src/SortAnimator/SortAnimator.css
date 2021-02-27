@@ -1,0 +1,16 @@
+.arrayContainer  {
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+    width: 150vh;
+}
+
+.arrayBar {
+    width: 5px;
+    display: inline-block;
+    margin: 1px;
+}
+
+.button {
+    margin-right: 5px
+}
