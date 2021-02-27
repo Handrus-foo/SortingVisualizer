@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Sorting Animator
+
+I created this project to learn more about sorting algorithms and how to create a more visual coding project.
+
+The bulk of the project is contained under the /src/SortingVisualzer and /src/SortingAlgorithms directories. Everything else was created with the React App bootstrap.
+
+Inspiration for project from [The Coding Train](https://youtu.be/eqo2LxRADhU).
+The rest of this README.md was created by the bootstrap as well.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
