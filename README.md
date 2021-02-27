@@ -2,7 +2,7 @@
 
 I created this project to learn more about sorting algorithms and how to create a more visual coding project.
 
-The bulk of the project is contained under the /src/SortingVisualzer and /src/SortingAlgorithms directories. Everything else was created with the React App bootstrap.
+The bulk of the project is contained under the /src/SortAnimator directory. Everything else was created with the React App bootstrap.
 
 Inspiration for project from [The Coding Train](https://youtu.be/eqo2LxRADhU).
 
