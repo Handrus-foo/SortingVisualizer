@@ -35,7 +35,7 @@ export function heapSort(array) {
         maxHeapify(animations, array, n, i);
     }
 
-    //Sets a wait time so you can take in the heap
+    //Sets a wait time so you can take in the glory of the heap
     for (let i = 0; i < 250; i++) {
         animations.push(["wait"]);
     }
